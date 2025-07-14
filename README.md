@@ -310,7 +310,7 @@ If you need to further debug the action, you can run it locally.
 
 You will need a [personal access token](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line).
 
-Then clone this repository, create a file `.env` in the repository, such as:
+Then clone this repository,  create a file `.env` in the repository, such as:
 
 ```
 GITHUB_TOKEN="123abc..."
